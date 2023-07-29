@@ -16,6 +16,7 @@ class MyArray {
         this.length++;
         return this.data;
     }
+    
 
     pop(){ 
         const lastItem = this.length - 1;
@@ -42,9 +43,6 @@ class MyArray {
         this.length--;
         return this.data;
     }
-
-
-
 
 }
 

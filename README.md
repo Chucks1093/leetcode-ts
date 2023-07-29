@@ -30,9 +30,9 @@
 - Inside each problem folder, you will find a `solution.ts` file containing the TypeScript code for the problem's solution.
 - Additionally, each problem folder may include a `README.md` file with additional information, explanations, and test cases specific to that problem.
 
-## Stats
+<!-- ## Stats
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Chucks1093&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Chucks1093&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
 ## Contributing
 
