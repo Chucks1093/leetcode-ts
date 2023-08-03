@@ -10,7 +10,7 @@ Another programmer might first try to check if the value that is being received 
     }
 ```
 
-This solution can also be solved using a forward loop.
+This problem can also be solved using a forward loop.
 
 ```js
     function reverse(value: string) {
