@@ -6,7 +6,6 @@ function reverse(value: string):string {
     return newstring;
 }
 
-reverse("I am a boy")
 
 
 export {}
